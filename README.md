@@ -1,7 +1,7 @@
 # niv_blog - prepare to work
 >I start naming everything use prefix niv-. I want to build a new light django blog engine.
 
-## Ideal Core Structure
+## Ideal Core Structure (roughly, to be modified)
 ### Construct basic blog administrating core: 
 **User**: user, user-group, auth-permissions,
 
