@@ -26,9 +26,9 @@ $ source ./.virtualenv/bin/active
 use 'pip -r requirements/requirements.txt' to install all the requirements.
 
 ## Run it on your server
-'''
+```
 $ python manager.py runserver 0.0.0.0:port
-'''
+```
 
 ## Thanks
 //TO DO
