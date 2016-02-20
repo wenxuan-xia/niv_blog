@@ -8,6 +8,12 @@ __pycache__/
 *.sqlite3
 *__*__*
 
+# Atom config file
+*.DS_Store
+
+# gitignore config file
+
+
 # C extensions
 *.so
 
