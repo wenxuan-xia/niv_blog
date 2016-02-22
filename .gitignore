@@ -6,7 +6,7 @@ __pycache__/
 # django db, python magic, and virtualenv
 *.virtualenv*
 *.sqlite3
-*__*__*
+*migrations*
 
 # Atom config file
 *.DS_Store
