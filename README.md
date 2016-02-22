@@ -29,6 +29,15 @@ use 'pip -r requirements/requirements.txt' to install all the requirements.
 ```
 $ python manager.py runserver 0.0.0.0:port
 ```
+or directly run
+```
+$ python manager.py runserver
+```
+
+## Current Front-end
+Bootstrap - CleanBlog
+
 
 ## Thanks
 //TO DO
+###Front-end
