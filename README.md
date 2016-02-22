@@ -40,4 +40,3 @@ Bootstrap - CleanBlog
 
 ## Thanks
 //TO DO
-###Front-end
