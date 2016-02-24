@@ -19,5 +19,5 @@ from core import blog
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^', include('core.blog.urls')),
+    url(r'', include('core.blog.urls')),
 ]
