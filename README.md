@@ -37,6 +37,7 @@ $ python manager.py runserver
 ## Current Front-end
 Bootstrap - CleanBlog
 
+highlight.js
 
 ## Thanks
 //TO DO
