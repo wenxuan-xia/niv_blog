@@ -5,10 +5,15 @@
   <link rel="stylesheet" type="text/css" href="{% static 'bootstrap-3.3.6-dist/css/bootstrap.min.css'%}"></link>
   <link rel="stylesheet" type="text/css" href="{% static 'cleanblog/css/clean-blog.min.css' %}"></link>
   <link rel="stylesheet" type="text/css" href="{% static 'niv_blog.css' %}"></link>
+  <link rel="stylesheet" type="text/css" href="{% static 'highlight/styles/agate.css' %}"></link>
 
   <script src="{% static 'jquery-1.12.0.min.js'%}"> </script>
   <script src="{% static 'bootstrap-3.3.6-dist/js/bootstrap.min.js'%}"> </script>
   <script src="{% static 'cleanblog/js/clean-blog.min.js' %}"></script>
+  <script src="{% static 'highlight/highlight.pack.js' %}"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
   {% endblock %}
 </head>
 
@@ -21,7 +26,7 @@
   {% include "Home/header.html" with title="niv_blog" %}
   {% endblock%}
 
-  {% block bloglist %}
+  {% block blogContainer %}
   {% include "Home/blogcontainer.html" %}
   {% endblock %}
 

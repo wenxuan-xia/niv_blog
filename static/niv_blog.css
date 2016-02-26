@@ -1,3 +1,8 @@
 .updateTime {
   float: right;
 }
+
+pre {
+  background: #ffffff;
+  border: 0px;
+}

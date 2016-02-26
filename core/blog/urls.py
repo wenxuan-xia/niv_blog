@@ -1,10 +1,11 @@
-from django.conf.urls import url
-from django.contrib import admin
-from django.views.defaults import page_not_found
-from . import views
+from django.conf.urls import patterns, url
+from .views import BlogIndex, BlogDetail
+from forms import FooModelForm
+
+
 
 urlpatterns = [
-    url(r'^$', views.BlogIndex),
-    url(r'^page_(?P<page>[0-9]+)/$', views.BlogIndex),
-    url(r'^articles/(?P<article>[0-9]+)/$', views.BlogDetail),
+    url(r'^$', BlogIndex.as_view()),
+    url(r'^page_(?P<page>[0-9]+)/$', BlogIndex.as_view(), name="home"),
+    url(r'^articles/(?P<article>[0-9]+)/$', BlogDetail.as_view()),
 ]

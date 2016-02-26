@@ -1,5 +1,11 @@
 {% extends "Home/index.html" %}
 
-{% block bloglist %}
-{% include "BlogDetail/article.html" %}
+{% block header %}
+{% include "BlogDetail/blogheader.html"%}
 {% endblock%}
+
+{% block bloglist %}{% endblock%}
+
+{% block blogContainer %}
+{% include "BlogDetail/blogContent.html" %}
+{% endblock %}
