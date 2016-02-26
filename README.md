@@ -1,18 +1,17 @@
-# niv_blog - prepare to work
+# niv_blog - half finished
 >I start naming everything use prefix niv-. I want to build a new light django blog engine.
 
 ## Ideal Core Structure (roughly, to be modified)
 ### Construct basic blog administrating core: 
-**User**: user, user-group, auth-permissions,
+**User**: use default
 
-**Blog**: blog, blog-tag, blog-auth
+**Blog**: blog, blog-tag(to do),
 
-**Comment**: comment
+**Comment**: comments system(to do)
 
-Everything above should be able to administrated at ~/admin
 
 ## Installation and Requirements
-Please use virtual-environment.
+Strongly suggest using virtual-environment.
 ```
 $ pip install --upgrade virtualenv
 $ mkdir ~/.virtualenvs
@@ -36,7 +35,6 @@ $ python manager.py runserver
 
 ## Current Front-end
 Bootstrap - CleanBlog
-
 highlight.js
 
 ## Thanks
