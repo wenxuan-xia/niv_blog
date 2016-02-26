@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'core.blog',
     'pagedown',
     'markdown_deux',
-    'pygments',
 ]
 
 MIDDLEWARE_CLASSES = [
