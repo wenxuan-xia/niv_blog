@@ -17,8 +17,8 @@ def getArticle(article=None):
     return article
 
 
-@xframe_options_exempt
 class BlogIndex(View):
+    @xframe_options_exempt
     def get(self, request, page=None):
         page = 0 if page == None else int(page)
         data, length = getBlogList(page)
@@ -26,8 +26,8 @@ class BlogIndex(View):
         return render(request, 'Home/index.html', {"blogs": data, "next_page": page+1, "pre_page": page-1, "isNext": flag})
 
 
-@xframe_options_exempt
 class BlogDetail(View):
+    @xframe_options_exempt
     def get(self, request, article=None):
         article = -1 if article == None else int(article)
         article = getArticle(article)
