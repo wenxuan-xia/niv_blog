@@ -2,6 +2,7 @@ from django.shortcuts import render
 from .models import Blog
 from django.conf import settings
 from django.views.generic import View
+from django.views.decorators.clickjacking import xframe_options_exempt
 
 # Create your views here.
 
@@ -15,6 +16,8 @@ def getArticle(article=None):
     article = Blog.objects.filter(status='p', isShown=True, id=article)[0]
     return article
 
+
+@xframe_options_exempt
 class BlogIndex(View):
     def get(self, request, page=None):
         page = 0 if page == None else int(page)
@@ -22,6 +25,8 @@ class BlogIndex(View):
         flag = 1 if length>settings.SINGLE_PAGE_LIMIT*(page+1) else 0
         return render(request, 'Home/index.html', {"blogs": data, "next_page": page+1, "pre_page": page-1, "isNext": flag})
 
+
+@xframe_options_exempt
 class BlogDetail(View):
     def get(self, request, article=None):
         article = -1 if article == None else int(article)
