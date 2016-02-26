@@ -22,7 +22,7 @@ activate virtual-environment
 $ source ./.virtualenv/bin/active
 ```
 
-use 'pip -r requirements/requirements.txt' to install all the requirements.
+use `pip -r requirements/requirements.txt` to install all the requirements.
 
 ## Run it on your server
 ```
