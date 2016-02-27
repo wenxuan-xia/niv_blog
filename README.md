@@ -1,5 +1,4 @@
 # niv_blog - half finished
->I start naming everything use prefix niv-. I want to build a new light django blog engine.
 
 ## Ideal Core Structure (roughly, to be modified)
 ### Construct basic blog administrating core: 
@@ -38,4 +37,4 @@ Bootstrap - CleanBlog
 highlight.js
 
 ## Thanks
-//TO DO
+lzjun567/django_blog
