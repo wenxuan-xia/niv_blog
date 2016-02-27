@@ -1,0 +1,1687 @@
+[25/Feb/2016 21:44:13] "GET / HTTP/1.1" 200 3321
+[25/Feb/2016 21:44:13] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 21:44:13] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:44:14] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /admin
+[25/Feb/2016 21:45:07] "GET /admin HTTP/1.1" 301 0
+[25/Feb/2016 21:45:07] "GET /admin/ HTTP/1.1" 302 0
+[25/Feb/2016 21:45:08] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1593
+[25/Feb/2016 21:45:08] "GET /static/admin/css/login.css HTTP/1.1" 200 1205
+[25/Feb/2016 21:45:08] "GET /static/admin/css/base.css HTTP/1.1" 200 15897
+[25/Feb/2016 21:45:08] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[25/Feb/2016 21:45:08] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[25/Feb/2016 21:45:08] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[25/Feb/2016 21:45:11] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[25/Feb/2016 21:45:11] "GET /admin/ HTTP/1.1" 200 3760
+[25/Feb/2016 21:45:11] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[25/Feb/2016 21:45:11] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[25/Feb/2016 21:45:11] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[25/Feb/2016 21:45:11] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[25/Feb/2016 21:45:13] "GET /admin/blog/blog/ HTTP/1.1" 200 3533
+[25/Feb/2016 21:45:13] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6100
+[25/Feb/2016 21:45:13] "GET /static/admin/js/core.js HTTP/1.1" 200 8366
+[25/Feb/2016 21:45:13] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 21:45:13] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[25/Feb/2016 21:45:13] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6871
+[25/Feb/2016 21:45:13] "GET /static/admin/js/actions.js HTTP/1.1" 200 6259
+[25/Feb/2016 21:45:13] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7693
+[25/Feb/2016 21:45:13] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[25/Feb/2016 21:45:13] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 200 62474
+[25/Feb/2016 21:45:13] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[25/Feb/2016 21:45:13] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 247597
+[25/Feb/2016 21:45:13] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+/home/ec2-user/niv_blog/.virtualenv/local/lib/python2.7/site-packages/pagedown/widgets.py:55: RemovedInDjango110Warning: render() must be called with a dict, not a Context.
+  return template.render(context)
+
+[25/Feb/2016 21:45:16] "GET /admin/blog/blog/add/ HTTP/1.1" 200 9970
+[25/Feb/2016 21:45:16] "GET /static/admin/css/forms.css HTTP/1.1" 200 7750
+[25/Feb/2016 21:45:16] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 200 1656
+[25/Feb/2016 21:45:16] "GET /static/admin/css/pagedown.css HTTP/1.1" 200 4453
+[25/Feb/2016 21:45:16] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 200 52737
+[25/Feb/2016 21:45:16] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 200 54222
+[25/Feb/2016 21:45:16] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 200 3880
+[25/Feb/2016 21:45:16] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[25/Feb/2016 21:45:16] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 200 31876
+[25/Feb/2016 21:45:16] "GET /static/pagedown_init.js HTTP/1.1" 200 1945
+[25/Feb/2016 21:45:16] "GET /static/admin/js/pagedown.js HTTP/1.1" 200 1431
+[25/Feb/2016 21:45:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 21:45:16] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 200 83529
+[25/Feb/2016 21:45:16] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 200 7465
+[25/Feb/2016 21:45:28] "GET /admin/blog/blog/ HTTP/1.1" 200 3533
+[25/Feb/2016 21:45:29] "GET /admin/blog/blog/ HTTP/1.1" 200 3533
+[25/Feb/2016 21:45:29] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 21:45:29] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:45:29] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[25/Feb/2016 21:45:32] "GET /admin/blog/blog/add/ HTTP/1.1" 200 9970
+[25/Feb/2016 21:58:09] "POST /admin/blog/blog/add/ HTTP/1.1" 302 0
+[25/Feb/2016 21:58:09] "GET /admin/blog/blog/ HTTP/1.1" 200 5968
+[25/Feb/2016 21:58:09] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 21:58:09] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[25/Feb/2016 21:58:09] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[25/Feb/2016 21:58:09] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET / HTTP/1.1" 200 3867
+[25/Feb/2016 21:58:12] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:12] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/1
+[25/Feb/2016 21:58:13] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 21:58:13] "GET /articles/1/ HTTP/1.1" 200 5181
+[25/Feb/2016 21:58:26] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 10607
+[25/Feb/2016 21:58:26] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/admin/css/pagedown.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 21:58:26] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[25/Feb/2016 21:58:26] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:04:55] "GET /admin/blog/blog/ HTTP/1.1" 200 5971
+[25/Feb/2016 22:04:55] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:04:55] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:04:55] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /articles/1/ HTTP/1.1" 200 5529
+[25/Feb/2016 22:04:58] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:04:58] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 10984
+[25/Feb/2016 22:05:09] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:05:09] "GET /static/admin/css/pagedown.css HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:05:09] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:06:39] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:06:39] "GET /admin/blog/blog/ HTTP/1.1" 200 5971
+[25/Feb/2016 22:06:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:06:40] "GET /articles/1/ HTTP/1.1" 200 5320
+[25/Feb/2016 22:06:40] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:06:40] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:06:43] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 10727
+[25/Feb/2016 22:06:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:07:14] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:07:14] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 11538
+[25/Feb/2016 22:07:14] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:07:14] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[25/Feb/2016 22:07:14] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /articles/1/ HTTP/1.1" 200 5821
+[25/Feb/2016 22:07:15] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:15] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:07:25] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 11514
+[25/Feb/2016 22:07:25] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:07:25] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 200 1656
+[25/Feb/2016 22:07:25] "GET /static/admin/css/pagedown.css HTTP/1.1" 200 4453
+[25/Feb/2016 22:07:25] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:25] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /articles/1/ HTTP/1.1" 200 5821
+[25/Feb/2016 22:07:26] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:26] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:38] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:07:38] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 11515
+[25/Feb/2016 22:07:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:07:38] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:38] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:38] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:38] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /articles/1/ HTTP/1.1" 200 5822
+[25/Feb/2016 22:07:40] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:40] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:07:50] "POST /admin/blog/blog/1/change/ HTTP/1.1" 302 0
+[25/Feb/2016 22:07:50] "GET /admin/blog/blog/1/change/ HTTP/1.1" 200 11513
+[25/Feb/2016 22:07:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[25/Feb/2016 22:07:52] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:07:52] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:07:52] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:08:05] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:08:21] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:08:26] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlNzYSzTGDixSTBgtzbZhZ7hNg3r8oAby57bVZbb4rqLlQ%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:08:26] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:08:26] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:08:26] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:08:26] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:08:26] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 81920
+- Broken pipe from ('166.175.186.12', 32903)
+[25/Feb/2016 22:08:26] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 81920
+- Broken pipe from ('166.175.186.12', 36289)
+[25/Feb/2016 22:08:29] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4OQRumIKypSonjoBcrVDzEilFu7G8htoM3VPlXC7g14Q%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:08:29] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:08:29] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:08:29] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:08:29] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:08:29] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:08:29] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:08:29] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:08:29] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:08:30] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[25/Feb/2016 22:08:34] "GET / HTTP/1.1" 200 3868
+Not Found: /articles/1
+[25/Feb/2016 22:08:35] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:08:35] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:08:41] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4OQRumIKypSonjoBcrVDzEilFu7G8htoM3VPlXC7g14Q%3D%3D HTTP/1.1" 200 3868
+Not Found: /about.html
+[25/Feb/2016 22:09:19] "GET /about.html HTTP/1.1" 404 2461
+[25/Feb/2016 22:09:28] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:11:33] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:11:34] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:11:34] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:11:43] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:11:49] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:12:09] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:16:47] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOVxw5xO1B43HlXXNrxxbYyxFxlXQtwjhnWkhSsGNDmNw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:16:47] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:16:47] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:16:57] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOVxw5xO1B43HlXXNrxxbYypcsRAT2notmzmnD2M%2BnO1g%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:16:58] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOVxw5xO1B43HlXXNrxxbYypcsRAT2notmzmnD2M%2BnO1g%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:17:00] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOPc2sZbKXY1hkS9PYAlwW4danlCnaKN2wruZmdZNwOCA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:17:01] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:17:01] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:17:01] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:17:02] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:17:02] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:17:02] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:17:02] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:17:04] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:17:06] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOPc2sZbKXY1hkS9PYAlwW4danlCnaKN2wruZmdZNwOCA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:17:06] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:17:06] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:17:06] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:17:06] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:17:06] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:17:06] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:17:06] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:17:06] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:17:07] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz50r8DKVXWGrGYuqYx6fXY8TFJJCh5eg3JylBENpP0fwA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:17:07] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:17:07] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:17:07] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:17:07] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:17:07] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:17:07] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:17:07] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:17:07] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:17:09] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/1
+[25/Feb/2016 22:17:12] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:17:12] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:18:30] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz50r8DKVXWGrGYuqYx6fXY8TFJJCh5eg3JylBENpP0fwA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:18:30] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:18:30] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:18:30] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:18:30] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:18:30] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/1
+[25/Feb/2016 22:18:35] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:18:35] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:18:39] "GET /articles/1/?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoYioRPTNFr6md2p7kIXa6WrJAcIMixlF2G8dahnzlUOrQ%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:18:41] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrF6cazUbC%2BK1HXxpGETKb%2F13cxCqDsxT7vQ%2BF5tW%2B4BJg%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:18:44] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4lDXd2%2Bu98ej4viOXVNn1mOqOnyYbSLqIP9IJBVpSsKw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:20:06] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlO4ihJjcRs21sxq6x9kpmzwyoMoh54YA16eo359UHRngg%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:20:06] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:20:06] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:20:06] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:20:06] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:20:06] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:20:06] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:20:06] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:20:06] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:20:12] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5qq4IrrV8XJM0akHDiZr%2FjUgh4E80aqWI4a73AxZwXPA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:20:12] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:20:12] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/1
+[25/Feb/2016 22:20:22] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:20:22] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:20:34] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlP8sbYTlP8I1c%2BOkG9nr0fm0aVi%2BRtC6oTDHFAYMENKFw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:20:34] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:20:34] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:20:34] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:20:35] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:20:35] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:20:35] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:20:37] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz6psBNMX6Ks9TZ2C4%2FYH%2BLoMGcN%2BZtH46QgRxopVFn34w%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:20:37] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:20:37] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:20:37] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:20:37] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:20:37] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:20:38] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[25/Feb/2016 22:20:39] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 73728
+- Broken pipe from ('66.253.158.6', 58872)
+[25/Feb/2016 22:25:49] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:25:50] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:25:50] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:25:50] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:25:50] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:25:50] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:25:51] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:25:52] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:25:52] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:25:52] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:26:55] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlNgGqLDoqt6IaCJKDTEgdqAQ9bZ86ThvtFgYB5l5xNU%2Fw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:27:04] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPAcFgIS3%2F%2FuVDKLJ8U31s5w%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:27:08] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPAcFgIS3%2F%2FuVDKLJ8U31s5w%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:27:10] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:27:10] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:27:10] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:27:11] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:27:11] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:27:11] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:27:12] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:27:15] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:27:41] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[25/Feb/2016 22:28:25] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlO7fBtaPDU9y0eV7vRsqjzvRReGv1NfAX5vmF9mjUkoSA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:28:25] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:28:25] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:28:25] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:28:25] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:28:25] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:28:25] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:28:25] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:28:25] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:28:29] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz78srrcaOASP37TfHaJTgMv7ciBYmg1KPZP6bxkL24egg%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:28:29] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:28:29] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:28:29] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:28:29] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:28:29] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:28:29] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/1
+[25/Feb/2016 22:28:41] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:28:41] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:28:44] "GET /articles/1/?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoaTrlZECJE2LtW00ospthni%2Bfvgq%2Fjp52USB0zf0T650Q%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:28:48] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrFjvSQDgxgVwXCDogfvt4xycP53Zdidop2vi366xXg6mQ%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:29:26] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlNgGqLDoqt6IaCJKDTEgdqAWL9W5IZ0Bb1c1f%2BK8%2BWQig%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:29:34] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPxCTkfJlc%2FdXtAO%2FfP6n2hg%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:29:35] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPxCTkfJlc%2FdXtAO%2FfP6n2hg%3D%3D HTTP/1.1" 200 3868
+Not Found: /articles/1
+[25/Feb/2016 22:29:45] "GET /articles/1?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXGXj%2B2VSlVPk4OFovs99gg%3D%3D HTTP/1.1" 301 0
+[25/Feb/2016 22:29:46] "GET /articles/1/?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXGXj%2B2VSlVPk4OFovs99gg%3D%3D HTTP/1.1" 200 5814
+Not Found: /articles/1
+[25/Feb/2016 22:29:47] "GET /articles/1?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXGXj%2B2VSlVPk4OFovs99gg%3D%3D HTTP/1.1" 301 0
+[25/Feb/2016 22:29:48] "GET /articles/1/?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXGXj%2B2VSlVPk4OFovs99gg%3D%3D HTTP/1.1" 200 5814
+Not Found: /articles/1
+[25/Feb/2016 22:29:51] "GET /articles/1?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXGXj%2B2VSlVPk4OFovs99gg%3D%3D HTTP/1.1" 301 0
+[25/Feb/2016 22:30:05] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrEwYJ50i%2F6g124ucDQM1Z6LxhtCLWTwQ0RkQ7nddClc5g%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:30:41] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrEwYJ50i%2F6g124ucDQM1Z6LxhtCLWTwQ0RkQ7nddClc5g%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:30:44] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrEwYJ50i%2F6g124ucDQM1Z6LxhtCLWTwQ0RkQ7nddClc5g%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:30:49] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:49] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:50] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:51] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:51] "GET / HTTP/1.1" 200 3868
+Not Found: /articles/1/contact.html
+[25/Feb/2016 22:30:51] "GET /articles/1/contact.html?nsukey=BQ8klCset1U84yjsGXW1DN1CTdrO%2Fr46hYOHQh8CDc3qQaPc8YJCLSEFDHWf%2BDlh0SEVLe1lC3MOl4P3s9ZcpQ%3D%3D HTTP/1.1" 404 2604
+[25/Feb/2016 22:30:52] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:52] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:52] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:53] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:53] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:30:53] "GET / HTTP/1.1" 200 3868
+Not Found: /articles/1/contact.html
+[25/Feb/2016 22:30:53] "GET /articles/1/contact.html?nsukey=BQ8klCset1U84yjsGXW1DN1CTdrO%2Fr46hYOHQh8CDc3qQaPc8YJCLSEFDHWf%2BDlh0SEVLe1lC3MOl4P3s9ZcpQ%3D%3D HTTP/1.1" 404 2604
+[25/Feb/2016 22:30:53] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:00] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:04] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:14] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:15] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlPiWuYSvzuJ26bDx%2FRnLVOmptF4ZMUwoeMgBweqCbujcw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:16] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlPiWuYSvzuJ26bDx%2FRnLVOmptF4ZMUwoeMgBweqCbujcw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:16] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:31:16] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:31:16] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:31:16] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+Not Found: /favicon.ico
+[25/Feb/2016 22:31:16] "GET /favicon.ico HTTP/1.1" 404 2464
+[25/Feb/2016 22:31:17] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 57344
+- Broken pipe from ('166.175.189.242', 35252)
+[25/Feb/2016 22:31:17] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 90112
+- Broken pipe from ('166.175.189.242', 50261)
+[25/Feb/2016 22:31:28] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlP8sbYTlP8I1c%2BOkG9nr0fmmRfIblHQBObZDudZoxr1JQ%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:28] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 22:31:28] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:31:28] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:31:28] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:31:28] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:31:28] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:31:28] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:28] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[25/Feb/2016 22:31:28] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[25/Feb/2016 22:31:29] "GET /favicon.ico HTTP/1.1" 404 2464
+Not Found: /favicon.ico
+[25/Feb/2016 22:31:29] "GET /favicon.ico HTTP/1.1" 404 2464
+[25/Feb/2016 22:31:30] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPMVI%2BXyLFneal8rh8pi5k3g%3D%3D HTTP/1.1" 200 3868
+Not Found: /articles/1
+[25/Feb/2016 22:31:31] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:31:31] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:31:32] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5aIHRv780WEbtCkgGf90tyT9k%2B%2BBz8YFmt1CMrRMV8Gw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:33] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz4dfwIYHA8l6Js3VhSPkdoPMVI%2BXyLFneal8rh8pi5k3g%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:33] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5aIHRv780WEbtCkgGf90tyT9k%2B%2BBz8YFmt1CMrRMV8Gw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:34] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5aIHRv780WEbtCkgGf90tyT9k%2B%2BBz8YFmt1CMrRMV8Gw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:31:34] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 22:31:34] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 22:31:34] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:31:34] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:31:34] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:31:34] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:31:34] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 22:31:35] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/1
+[25/Feb/2016 22:31:48] "GET /articles/1?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXwfm9nWS2PlKbmVGFuElzw%3D%3D HTTP/1.1" 301 0
+[25/Feb/2016 22:31:51] "GET /articles/1/?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXwfm9nWS2PlKbmVGFuElzw%3D%3D HTTP/1.1" 200 5814
+Not Found: /articles/1
+[25/Feb/2016 22:31:54] "GET /articles/1?nsukey=OLfTNYa%2FZfyw1MR3hYUXIdizY40lP0mQAJX0m%2B11LoZSZBL%2BcGQue3LtfFppFGGOXwfm9nWS2PlKbmVGFuElzw%3D%3D HTTP/1.1" 301 0
+[25/Feb/2016 22:31:57] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrEwYJ50i%2F6g124ucDQM1Z6LKwUUp3dvyL6Kzh%2F7GF5u%2BA%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:31:59] "GET /articles/1/?nsukey=tjNyAGN%2FldZJdWXIhaj8V7HqN1TCCll6cUAGy1JGTrEwYJ50i%2F6g124ucDQM1Z6LKwUUp3dvyL6Kzh%2F7GF5u%2BA%3D%3D HTTP/1.1" 200 5814
+[25/Feb/2016 22:32:00] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:00] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:32:00] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:00] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:32:01] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:01] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:02] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:32:03] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:32:12] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/1/about.html
+[25/Feb/2016 22:32:34] "GET /articles/1/about.html HTTP/1.1" 404 2494
+Not Found: /articles/1/contact.html
+[25/Feb/2016 22:32:38] "GET /articles/1/contact.html HTTP/1.1" 404 2500
+[25/Feb/2016 22:32:40] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:32:58] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOPc2sZbKXY1hkS9PYAlwW4C3PIXWpjdJHVLUtTB%2Fp3QA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:32:59] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOPc2sZbKXY1hkS9PYAlwW4C3PIXWpjdJHVLUtTB%2Fp3QA%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:32:59] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 22:32:59] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:59] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:59] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:32:59] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 22:32:59] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 22:32:59] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:33:00] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlPiWuYSvzuJ26bDx%2FRnLVOm7KsTg144LDUsYgxkqAmYsQ%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 22:33:02] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 22:33:02] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlPiWuYSvzuJ26bDx%2FRnLVOm7KsTg144LDUsYgxkqAmYsQ%3D%3D HTTP/1.1" 200 3868
+Not Found: /favicon.ico
+[25/Feb/2016 22:33:03] "GET /favicon.ico HTTP/1.1" 404 2464
+Not Found: /articles/1
+[25/Feb/2016 22:33:13] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 22:33:13] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 22:35:26] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:29] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:34] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:41] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:44] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:44] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:45] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:35:46] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:36:26] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:36:35] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:36:35] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:36:35] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:37:09] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:37:09] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:37:10] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:37:13] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:37:16] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:38:41] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:38:41] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:38:41] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 22:38:43] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:38:56] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:38:58] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:39:51] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:39:55] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:41:36] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:47:32] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 22:47:33] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[25/Feb/2016 22:47:33] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[25/Feb/2016 23:07:19] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlOjpudvGIprQatP9CYmPrM6jSOe%2Bvke8pM%2FeyAJnIlrfw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 23:07:19] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 23:07:19] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 23:07:19] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 23:07:19] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 23:07:19] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 23:07:19] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 23:07:19] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 23:07:19] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 23:07:21] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5qGy2tz3Vxy4MkDZFxKoC3N%2BH7UE0P6JN2TtymQqFQTw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 23:07:21] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 23:07:21] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 23:07:21] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 23:07:21] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 23:07:21] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 23:07:22] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[25/Feb/2016 23:07:35] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 23:07:36] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5qGy2tz3Vxy4MkDZFxKoC3N%2BH7UE0P6JN2TtymQqFQTw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 23:07:38] "GET /?nsukey=QG2%2B%2FKCUyUaeudKCsHsNpsaqSpKTRfZThST0XhN6Wz5qGy2tz3Vxy4MkDZFxKoC3N%2BH7UE0P6JN2TtymQqFQTw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 23:18:04] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlPUNo%2FGJXqdT7v9cz6yj4CYZijmf2mTghpqI7pvJHw6Zw%3D%3D HTTP/1.1" 200 3868
+[25/Feb/2016 23:27:11] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 23:27:11] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 23:27:11] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 23:27:11] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 23:27:11] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 23:27:11] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 23:27:11] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 23:27:11] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 23:27:11] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 23:27:12] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /favicon.ico
+[25/Feb/2016 23:27:12] "GET /favicon.ico HTTP/1.1" 404 2464
+[25/Feb/2016 23:27:17] "GET / HTTP/1.1" 200 3868
+Not Found: /about.html
+[25/Feb/2016 23:27:18] "GET /about.html HTTP/1.1" 404 2461
+Not Found: /articles/1
+[25/Feb/2016 23:27:21] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 23:27:21] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 23:32:54] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 23:32:54] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[25/Feb/2016 23:32:54] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[25/Feb/2016 23:32:54] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[25/Feb/2016 23:32:54] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[25/Feb/2016 23:32:55] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[25/Feb/2016 23:32:55] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[25/Feb/2016 23:32:55] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[25/Feb/2016 23:32:55] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[25/Feb/2016 23:32:55] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /favicon.ico
+[25/Feb/2016 23:32:55] "GET /favicon.ico HTTP/1.1" 404 2464
+Not Found: /articles/1
+[25/Feb/2016 23:34:47] "GET /articles/1 HTTP/1.1" 301 0
+[25/Feb/2016 23:34:48] "GET /articles/1/ HTTP/1.1" 200 5814
+[25/Feb/2016 23:35:14] "GET / HTTP/1.1" 200 3868
+Not Found: /about.html
+[25/Feb/2016 23:35:16] "GET /about.html HTTP/1.1" 404 2461
+[25/Feb/2016 23:51:05] "GET / HTTP/1.1" 200 3868
+[25/Feb/2016 23:51:53] "GET / HTTP/1.1" 200 3868
+Not Found: /robots.txt
+[25/Feb/2016 23:57:53] "GET /robots.txt HTTP/1.1" 404 2461
+[25/Feb/2016 23:57:53] "GET / HTTP/1.1" 200 3868
+Not Found: /about.html
+[26/Feb/2016 00:02:58] "GET /about.html HTTP/1.1" 404 2461
+Not Found: /contact.html
+[26/Feb/2016 00:05:05] "GET /contact.html HTTP/1.1" 404 2467
+Not Found: /articles/1
+[26/Feb/2016 00:06:23] "GET /articles/1 HTTP/1.1" 301 0
+[26/Feb/2016 00:06:24] "GET /articles/1/ HTTP/1.1" 200 5814
+Not Found: /articles/1/contact.html
+[26/Feb/2016 00:07:59] "GET /articles/1/contact.html HTTP/1.1" 404 2500
+Not Found: /articles/1/about.html
+[26/Feb/2016 00:10:11] "GET /articles/1/about.html HTTP/1.1" 404 2494
+[26/Feb/2016 00:34:03] "GET / HTTP/1.1" 200 3868
+[26/Feb/2016 00:48:21] "GET / HTTP/1.1" 200 3868
+[26/Feb/2016 00:48:30] "GET / HTTP/1.1" 200 3868
+[26/Feb/2016 00:48:30] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:30] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /admin
+[26/Feb/2016 00:48:38] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 00:48:38] "GET /admin/ HTTP/1.1" 200 5799
+[26/Feb/2016 00:48:38] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 00:48:38] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /admin/blog/blog/ HTTP/1.1" 200 5821
+[26/Feb/2016 00:48:40] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 00:48:40] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[26/Feb/2016 00:48:40] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /admin/blog/blog/add/ HTTP/1.1" 200 9970
+[26/Feb/2016 00:48:42] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 00:48:42] "GET /static/admin/css/pagedown.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:42] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[26/Feb/2016 00:48:43] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 304 0
+[26/Feb/2016 00:58:15] "POST /admin/blog/blog/add/ HTTP/1.1" 302 0
+[26/Feb/2016 00:58:15] "GET /admin/blog/blog/ HTTP/1.1" 200 6494
+[26/Feb/2016 00:58:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 00:58:22] "GET / HTTP/1.1" 200 4405
+Not Found: /articles/2
+[26/Feb/2016 00:58:24] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 00:58:24] "GET /articles/2/ HTTP/1.1" 200 5725
+[26/Feb/2016 00:59:02] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11088
+[26/Feb/2016 00:59:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 00:59:32] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 00:59:32] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11272
+[26/Feb/2016 00:59:32] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 00:59:35] "GET /articles/2/ HTTP/1.1" 200 5730
+[26/Feb/2016 00:59:35] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 00:59:35] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/2
+[26/Feb/2016 00:59:57] "GET /articles/2 HTTP/1.1" 301 0
+Not Found: /articles/2
+[26/Feb/2016 00:59:57] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 00:59:58] "GET /articles/2/ HTTP/1.0" 200 5730
+[26/Feb/2016 01:00:00] "GET /articles/2/ HTTP/1.1" 200 5730
+[26/Feb/2016 01:00:03] "GET /articles/2/ HTTP/1.1" 200 5730
+[26/Feb/2016 01:00:03] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 01:00:04] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 01:00:04] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 01:00:06] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 01:00:07] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 01:00:07] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 01:00:07] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 01:00:07] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 01:00:08] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 01:00:09] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 01:00:12] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 01:00:19] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 01:00:39] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /favicon.ico
+[26/Feb/2016 01:00:45] "GET /favicon.ico HTTP/1.1" 404 2464
+[26/Feb/2016 01:01:26] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:01:26] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11328
+[26/Feb/2016 01:01:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:01:31] "GET /articles/2/ HTTP/1.1" 200 5793
+[26/Feb/2016 01:01:31] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:01:31] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:02:49] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:02:49] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11409
+[26/Feb/2016 01:02:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:02:53] "GET /articles/2/ HTTP/1.1" 200 5873
+[26/Feb/2016 01:02:53] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:02:53] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:03:14] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:03:14] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11426
+[26/Feb/2016 01:03:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:03:18] "GET /articles/2/ HTTP/1.1" 200 5890
+[26/Feb/2016 01:03:18] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:03:18] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:03:19] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:04:15] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:04:15] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11412
+[26/Feb/2016 01:04:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:04:16] "GET /articles/2/ HTTP/1.1" 200 5883
+[26/Feb/2016 01:04:16] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:04:16] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:05:00] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:05:00] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11491
+[26/Feb/2016 01:05:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:05:03] "GET /articles/2/ HTTP/1.1" 200 5963
+[26/Feb/2016 01:05:03] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:05:03] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:06:16] "GET /articles/2/ HTTP/1.1" 200 5963
+[26/Feb/2016 01:06:46] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:06:46] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11493
+[26/Feb/2016 01:06:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:08:46] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:08:46] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11538
+[26/Feb/2016 01:08:46] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:46] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:46] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:46] "GET /static/admin/css/pagedown.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:46] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:08:47] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 01:08:47] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /articles/2/ HTTP/1.1" 200 6010
+[26/Feb/2016 01:08:49] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:49] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /articles/2/ HTTP/1.1" 200 6010
+[26/Feb/2016 01:08:50] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:50] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:51] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:51] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:08:51] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/2/about.html
+[26/Feb/2016 01:09:02] "GET /articles/2/about.html HTTP/1.1" 404 2494
+Not Found: /articles/2/contact.html
+[26/Feb/2016 01:09:05] "GET /articles/2/contact.html HTTP/1.1" 404 2500
+[26/Feb/2016 01:13:24] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 01:13:24] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11574
+[26/Feb/2016 01:13:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 01:13:25] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 01:13:26] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 01:13:26] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 01:53:37] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 01:53:38] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 01:53:38] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 01:53:38] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 01:53:39] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 01:53:44] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 01:53:48] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 01:53:49] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 02:26:29] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 06:37:36] "GET /?nsukey=A44YGJUZeYjv0MGxzrKTtIMuvvGOlx5dTKJAQV1CJlN8nd4M3J%2B%2FG0oDTj70CYbSKV4DC7ybUzk%2Fz8WbcUX8NA%3D%3D HTTP/1.1" 200 4404
+[26/Feb/2016 06:37:36] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 06:37:36] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 06:37:36] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 06:37:36] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 06:37:36] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 06:37:37] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 06:37:37] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 06:37:37] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+Not Found: /favicon.ico
+[26/Feb/2016 06:37:37] "GET /favicon.ico HTTP/1.1" 404 2464
+Not Found: /favicon.ico
+[26/Feb/2016 06:37:37] "GET /favicon.ico HTTP/1.1" 404 2464
+[26/Feb/2016 13:30:58] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:33:31] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:33:31] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:33:32] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:36:13] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:36:17] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:39:35] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:40:45] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:40:45] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 13:40:45] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Error: You don't have permission to access that port.
+Error: You don't have permission to access that port.
+[26/Feb/2016 13:42:09] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:42:09] "GET / HTTP/1.1" 200 4404
+python: can't open file 'runserver': [Errno 2] No such file or directory
+python: can't open file 'runserver': [Errno 2] No such file or directory
+python: can't open file 'runserver': [Errno 2] No such file or directory
+python: can't open file 'runserver': [Errno 2] No such file or directory
+python: can't open file 'runserver': [Errno 2] No such file or directory
+python: can't open file 'runserver': [Errno 2] No such file or directory
+[26/Feb/2016 13:46:00] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:00] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:00] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 13:46:24] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:26] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:29] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:29] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 13:46:29] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 13:46:33] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:33] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:46:38] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:47:00] "GET / HTTP/1.1" 200 4404
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 13:46:22
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 13:45:57
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fce8fc2eaa0>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 109, in inner_run
+    autoreload.raise_last_exception()
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/django/__init__.py", line 18, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/usr/local/lib/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+    app_config = AppConfig.create(entry)
+  File "/usr/local/lib/python2.7/site-packages/django/apps/config.py", line 90, in create
+    module = import_module(entry)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named pygments
+Unhandled exception in thread started by <function wrapper at 0x7f784aecaaa0>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 109, in inner_run
+    autoreload.raise_last_exception()
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/usr/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/django/__init__.py", line 18, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/usr/local/lib/python2.7/site-packages/django/apps/registry.py", line 85, in populate
+    app_config = AppConfig.create(entry)
+  File "/usr/local/lib/python2.7/site-packages/django/apps/config.py", line 90, in create
+    module = import_module(entry)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named pygments
+[26/Feb/2016 13:57:55] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:57:55] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:57:55] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 13:57:56] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/2
+[26/Feb/2016 13:57:57] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 13:57:57] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 13:58:00] "GET / HTTP/1.1" 200 4404
+Not Found: /articles/2
+[26/Feb/2016 13:58:06] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 13:58:06] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 13:58:10] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:58:10] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 13:58:10] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 13:58:11] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 13:59:15] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 13:59:17] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 14:00:18] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:00:35] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:00:36] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:00:36] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:00:37] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 14:00:38] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 14:00:40] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:00:41] "GET / HTTP/1.1" 200 4404
+Not Found: /admin
+[26/Feb/2016 14:00:55] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:00:55] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:01:00] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:01:03] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:01:07] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:01:24] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:01:26] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:01:29] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:01:29] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:01:29] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 13:57:51
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 13:57:52
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[26/Feb/2016 14:02:37] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:02:37] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:02:37] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 14:02:38] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /admin
+[26/Feb/2016 14:02:40] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:40] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:41] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:41] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:41] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:41] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:42] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:42] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:42] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:42] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:45] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:45] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:48] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:48] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:02:51] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:02:54] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /admin
+[26/Feb/2016 14:02:55] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:02:55] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:03:02] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:03:02] "GET /static/admin/css/base.css HTTP/1.1" 200 15897
+[26/Feb/2016 14:03:02] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[26/Feb/2016 14:03:02] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[26/Feb/2016 14:03:02] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[26/Feb/2016 14:03:02] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[26/Feb/2016 14:03:02] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[26/Feb/2016 14:03:02] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[26/Feb/2016 14:03:02] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[26/Feb/2016 14:03:26] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:03:36] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:03:36] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 14:03:36] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 14:03:36] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 14:03:36] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 14:03:36] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:03:36] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:03:36] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:03:36] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 14:03:36] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[26/Feb/2016 14:03:42] "GET /admin/ HTTP/1.1" 200 6660
+Not Found: /articles/1
+[26/Feb/2016 14:03:43] "GET /articles/1 HTTP/1.1" 301 0
+[26/Feb/2016 14:03:43] "GET /articles/1/ HTTP/1.1" 200 5814
+Not Found: /admin
+[26/Feb/2016 14:03:49] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:03:49] "GET /admin/ HTTP/1.1" 200 6660
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 14:02:33
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 14:02:33
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[26/Feb/2016 14:04:47] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:04:47] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:04:47] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /admin
+[26/Feb/2016 14:04:52] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:04:52] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:04:52] "GET /static/admin/css/base.css HTTP/1.1" 200 15897
+[26/Feb/2016 14:04:52] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[26/Feb/2016 14:04:52] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[26/Feb/2016 14:04:52] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[26/Feb/2016 14:04:52] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[26/Feb/2016 14:04:52] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[26/Feb/2016 14:04:52] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[26/Feb/2016 14:04:52] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[26/Feb/2016 14:05:00] "GET /admin/blog/blog/ HTTP/1.1" 200 6345
+[26/Feb/2016 14:05:00] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6100
+[26/Feb/2016 14:05:00] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 14:05:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:05:00] "GET /static/admin/js/core.js HTTP/1.1" 200 8366
+[26/Feb/2016 14:05:00] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[26/Feb/2016 14:05:00] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 14:05:00] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6871
+[26/Feb/2016 14:05:00] "GET /static/admin/js/actions.js HTTP/1.1" 200 6259
+[26/Feb/2016 14:05:00] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7693
+[26/Feb/2016 14:05:00] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[26/Feb/2016 14:05:00] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 247597
+[26/Feb/2016 14:05:00] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 200 62474
+[26/Feb/2016 14:05:00] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[26/Feb/2016 14:05:00] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[26/Feb/2016 14:05:00] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:05:00] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:05:00] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:05:00] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+/usr/local/lib/python2.7/site-packages/pagedown/widgets.py:55: RemovedInDjango110Warning: render() must be called with a dict, not a Context.
+  return template.render(context)
+
+[26/Feb/2016 14:05:02] "GET /admin/blog/blog/add/ HTTP/1.1" 200 9970
+[26/Feb/2016 14:05:02] "GET /static/admin/css/forms.css HTTP/1.1" 200 7750
+[26/Feb/2016 14:05:02] "GET /static/admin/css/pagedown.css HTTP/1.1" 200 4453
+[26/Feb/2016 14:05:02] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 200 1656
+[26/Feb/2016 14:05:02] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 200 52737
+[26/Feb/2016 14:05:02] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 200 54222
+[26/Feb/2016 14:05:02] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 200 3880
+[26/Feb/2016 14:05:02] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[26/Feb/2016 14:05:02] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 200 31876
+[26/Feb/2016 14:05:02] "GET /static/pagedown_init.js HTTP/1.1" 200 1945
+[26/Feb/2016 14:05:02] "GET /static/admin/js/pagedown.js HTTP/1.1" 200 1431
+[26/Feb/2016 14:05:02] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 200 83529
+[26/Feb/2016 14:05:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:05:02] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 200 7465
+[26/Feb/2016 14:06:43] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:06:43] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 14:06:43] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 14:06:43] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 14:06:43] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:06:43] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 14:06:43] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 14:06:43] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:06:43] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:06:44] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[26/Feb/2016 14:06:50] "GET / HTTP/1.1" 200 4404
+Not Found: /about.html
+[26/Feb/2016 14:06:51] "GET /about.html HTTP/1.1" 404 2456
+Not Found: /contact.html
+[26/Feb/2016 14:07:05] "GET /contact.html HTTP/1.1" 404 2462
+Not Found: /articles/2
+[26/Feb/2016 14:07:08] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 14:07:08] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 14:07:17] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:07:38] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:07:38] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 14:07:38] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 14:07:38] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 14:07:38] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 14:07:39] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[26/Feb/2016 14:07:47] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:07:47] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 14:07:47] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 14:07:47] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:07:47] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:07:47] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 14:07:47] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 14:07:48] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 14:07:48] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:07:48] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/2
+[26/Feb/2016 14:07:54] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 14:07:54] "GET /articles/2/ HTTP/1.1" 200 6046
+[26/Feb/2016 14:07:55] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:09:49] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:09:50] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:09:50] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:09:50] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /admin/blog/blog/ HTTP/1.1" 200 6345
+[26/Feb/2016 14:09:52] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:09:52] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:09:52] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11395
+[26/Feb/2016 14:09:53] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:09:53] "GET /static/admin/css/pagedown.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:53] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[26/Feb/2016 14:09:54] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 304 0
+[26/Feb/2016 14:10:20] "POST /admin/blog/blog/2/change/ HTTP/1.1" 302 0
+[26/Feb/2016 14:10:20] "GET /admin/blog/blog/ HTTP/1.1" 200 6495
+[26/Feb/2016 14:10:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:13:47] "POST /admin/blog/blog/add/ HTTP/1.1" 302 0
+[26/Feb/2016 14:13:47] "GET /admin/blog/blog/3/change/ HTTP/1.1" 200 10600
+[26/Feb/2016 14:13:47] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:47] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:47] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:13:47] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:47] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:47] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 200 1656
+[26/Feb/2016 14:13:48] "GET /static/admin/css/pagedown.css HTTP/1.1" 200 4453
+[26/Feb/2016 14:13:48] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:13:48] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 304 0
+Not Found: /admin
+[26/Feb/2016 14:13:51] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:13:51] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:13:51] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:13:51] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:13:54] "GET / HTTP/1.1" 200 4404
+[26/Feb/2016 14:14:02] "POST /admin/blog/blog/3/change/ HTTP/1.1" 302 0
+[26/Feb/2016 14:14:02] "GET /admin/blog/blog/3/change/ HTTP/1.1" 200 10602
+[26/Feb/2016 14:14:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[26/Feb/2016 14:14:04] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:14:04] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 14:14:04] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 14:14:04] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 14:14:04] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 14:14:04] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 14:14:04] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 14:14:04] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 14:14:04] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+Not Found: /admin
+[26/Feb/2016 14:14:04] "GET /admin HTTP/1.1" 301 0
+[26/Feb/2016 14:14:04] "GET /admin/ HTTP/1.1" 200 6660
+[26/Feb/2016 14:14:04] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:14:04] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+[26/Feb/2016 14:14:05] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:14:05] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 14:14:05] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /articles/1
+[26/Feb/2016 14:14:36] "GET /articles/1 HTTP/1.1" 301 0
+[26/Feb/2016 14:14:37] "GET /articles/1/ HTTP/1.1" 200 5814
+Not Found: /articles/3
+[26/Feb/2016 14:14:48] "GET /articles/3 HTTP/1.1" 301 0
+[26/Feb/2016 14:14:48] "GET /articles/3/ HTTP/1.1" 200 4987
+Not Found: /articles/1/about.html
+[26/Feb/2016 14:14:48] "GET /articles/1/about.html HTTP/1.1" 404 2489
+[26/Feb/2016 14:14:53] "GET /articles/2/ HTTP/1.1" 200 6045
+Not Found: /about.html
+[26/Feb/2016 14:15:07] "GET /about.html HTTP/1.1" 404 2456
+[26/Feb/2016 14:15:09] "GET /articles/3/ HTTP/1.1" 200 4987
+[26/Feb/2016 14:15:48] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:15:48] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 14:15:48] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 14:17:22] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:17:22] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:17:22] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 14:17:22] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 14:17:22] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 14:17:22] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:17:23] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:17:23] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 14:17:23] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 14:17:23] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[26/Feb/2016 14:17:23] "GET /articles/3/ HTTP/1.1" 200 4987
+[26/Feb/2016 14:17:31] "GET / HTTP/1.1" 200 4959
+Not Found: /robots.txt
+[26/Feb/2016 14:18:29] "GET /robots.txt HTTP/1.1" 404 2461
+[26/Feb/2016 14:18:30] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:18:33] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:18:35] "GET /articles/3/ HTTP/1.1" 200 4987
+[26/Feb/2016 14:18:38] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:18:46] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:18:46] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:19:06] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:20:24] "GET / HTTP/1.1" 200 4959
+Not Found: /favicon.ico
+[26/Feb/2016 14:20:25] "GET /favicon.ico HTTP/1.1" 404 2459
+[26/Feb/2016 14:20:31] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:20:41] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:49:47] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 14:49:48] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 16:06:54] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 16:06:55] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 16:06:55] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 16:06:55] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 16:06:55] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 16:06:55] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 16:06:55] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 16:06:55] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 16:06:55] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 16:06:55] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /admin
+[26/Feb/2016 17:23:41] "HEAD /admin HTTP/1.0" 301 0
+[26/Feb/2016 17:37:52] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 17:37:52] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 17:37:52] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 17:37:52] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 17:37:52] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 17:37:52] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 17:37:52] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 17:37:52] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 17:37:52] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 17:37:53] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/2
+[26/Feb/2016 17:37:59] "GET /articles/2 HTTP/1.1" 301 0
+[26/Feb/2016 17:37:59] "GET /articles/2/ HTTP/1.1" 200 6045
+Not Found: /robots.txt
+[26/Feb/2016 17:38:59] "GET /robots.txt HTTP/1.1" 404 2456
+[26/Feb/2016 17:38:59] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 19:54:41] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[26/Feb/2016 19:54:42] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[26/Feb/2016 19:54:43] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[26/Feb/2016 19:54:43] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[26/Feb/2016 19:54:44] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[26/Feb/2016 21:36:24] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 21:36:26] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[26/Feb/2016 21:36:26] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[26/Feb/2016 21:36:26] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[26/Feb/2016 22:07:48] "GET / HTTP/1.1" 200 4959
+[26/Feb/2016 22:07:48] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[26/Feb/2016 22:07:48] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /admin
+[26/Feb/2016 23:59:54] "HEAD /admin HTTP/1.0" 301 0
+[27/Feb/2016 05:22:25] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 05:22:26] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[27/Feb/2016 09:27:39] code 400, message Bad request syntax ("\x11\xb2\xc7\xd8-\xaby|\xbf\x03\x85>\xeeM8'\xc0\xbd,\xe0\xd2\x02\x16\xe2\xae\x85c\xfd\xb1\xf6\x1f\x0ed\x8f\xb1#\xca\xbb\xee\x19B\xf6\xbaTt\xc4\xd0*\xfd\xff\xffQG\x13\x82)7=\xd3\xa16%\x81\x01")
+[27/Feb/2016 09:27:39] 
+[27/Feb/2016 09:40:25] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:40:25] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 09:40:25] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /about.html
+[27/Feb/2016 09:40:28] "GET /about.html HTTP/1.1" 404 2456
+[27/Feb/2016 09:40:31] "GET /articles/2/ HTTP/1.1" 200 6045
+Not Found: /articles/1
+[27/Feb/2016 09:40:36] "GET /articles/1 HTTP/1.1" 301 0
+[27/Feb/2016 09:40:36] "GET /articles/1/ HTTP/1.1" 200 5814
+[27/Feb/2016 09:40:45] "GET /articles/3/ HTTP/1.1" 200 4987
+[27/Feb/2016 09:41:28] "GET /articles/2/ HTTP/1.1" 200 6045
+[27/Feb/2016 09:41:33] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:41:35] "GET /admin/ HTTP/1.1" 200 6660
+[27/Feb/2016 09:41:35] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[27/Feb/2016 09:41:35] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /admin/blog/blog/ HTTP/1.1" 200 6887
+[27/Feb/2016 09:41:37] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[27/Feb/2016 09:41:37] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[27/Feb/2016 09:41:37] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /admin/blog/blog/2/change/ HTTP/1.1" 200 11394
+[27/Feb/2016 09:41:38] "GET /static/admin/css/pagedown.css HTTP/1.1" 200 4453
+[27/Feb/2016 09:41:38] "GET /static/pagedown/demo/browser/demo.css HTTP/1.1" 200 1656
+[27/Feb/2016 09:41:38] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[27/Feb/2016 09:41:38] "GET /static/pagedown-extra/pagedown/Markdown.Converter.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown/Markdown.Sanitizer.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown/Markdown.Editor.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown-extra/Markdown.Extra.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown_init.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/admin/js/pagedown.js HTTP/1.1" 304 0
+[27/Feb/2016 09:41:38] "GET /static/pagedown/wmd-buttons.png HTTP/1.1" 304 0
+[27/Feb/2016 09:41:39] "GET /admin/blog/blog/ HTTP/1.1" 200 6887
+[27/Feb/2016 09:41:40] "GET /admin/blog/blog/3/change/ HTTP/1.1" 200 10423
+[27/Feb/2016 09:41:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[27/Feb/2016 09:41:59] "GET /admin/blog/blog/ HTTP/1.1" 200 6887
+[27/Feb/2016 09:41:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[27/Feb/2016 09:42:05] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:50:28] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:50:28] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:28] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /about.html
+[27/Feb/2016 09:50:30] "GET /about.html HTTP/1.1" 404 2456
+[27/Feb/2016 09:50:36] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:50:36] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:36] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /about.html
+[27/Feb/2016 09:50:37] "GET /about.html HTTP/1.1" 404 2456
+[27/Feb/2016 09:50:52] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 09:50:52] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 09:50:52] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /http:/testp3.pospr.waw.pl/testproxy.php
+[27/Feb/2016 11:16:24] "GET http://testp3.pospr.waw.pl/testproxy.php HTTP/1.1" 404 1723
+Not Found: /robots.txt
+[27/Feb/2016 12:11:06] "GET /robots.txt HTTP/1.1" 404 2456
+[27/Feb/2016 12:11:06] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 13:02:44] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 16:25:49] "HEAD / HTTP/1.1" 200 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 14:04:45
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 26, 2016 - 14:04:45
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Feb/2016 16:39:44] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 16:39:44] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 16:39:44] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+Not Found: /resume
+[27/Feb/2016 16:39:46] "GET /resume HTTP/1.1" 301 0
+[27/Feb/2016 16:39:46] "GET /resume/ HTTP/1.1" 200 31831
+[27/Feb/2016 16:39:51] "GET /resume/ HTTP/1.1" 200 31831
+[27/Feb/2016 16:50:18] "GET / HTTP/1.1" 200 4959
+[27/Feb/2016 16:50:41] "GET / HTTP/1.1" 200 5075
+[27/Feb/2016 16:50:41] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 16:50:41] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[27/Feb/2016 16:50:42] "GET /resume/ HTTP/1.1" 200 31448
+Not Found: /https://github.com/wenxuan-xia
+[27/Feb/2016 16:50:45] "GET /https://github.com/wenxuan-xia HTTP/1.1" 404 2672
+[27/Feb/2016 16:51:25] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 16:51:25] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:25] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[27/Feb/2016 16:51:31] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 16:51:39] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 16:51:39] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 16:51:39] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[27/Feb/2016 16:51:44] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css.map HTTP/1.1" 200 54416
+[27/Feb/2016 16:59:38] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 16:59:41] "GET /resume/ HTTP/1.1" 200 31448
+[27/Feb/2016 16:59:44] "GET /articles/3/ HTTP/1.1" 200 5099
+[27/Feb/2016 16:59:50] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 16:59:50] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 200 7060
+[27/Feb/2016 16:59:50] "GET /static/niv_blog.css HTTP/1.1" 200 79
+[27/Feb/2016 16:59:50] "GET /static/highlight/styles/agate.css HTTP/1.1" 200 1276
+[27/Feb/2016 16:59:50] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 200 36868
+[27/Feb/2016 16:59:50] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 121260
+[27/Feb/2016 16:59:50] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 200 17320
+[27/Feb/2016 16:59:50] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 200 97362
+[27/Feb/2016 16:59:50] "GET /static/highlight/highlight.pack.js HTTP/1.1" 200 43643
+[27/Feb/2016 16:59:50] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 200 172779
+Not Found: /articles/3
+[27/Feb/2016 16:59:51] "GET /articles/3 HTTP/1.1" 301 0
+[27/Feb/2016 16:59:51] "GET /articles/3/ HTTP/1.1" 200 5099
+Not Found: /resume
+[27/Feb/2016 16:59:54] "GET /resume HTTP/1.1" 301 0
+[27/Feb/2016 16:59:55] "GET /resume/ HTTP/1.1" 200 31448
+[27/Feb/2016 17:00:00] "GET /articles/3/ HTTP/1.1" 200 5099
