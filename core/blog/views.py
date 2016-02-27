@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from django.http import HttpResponse
 from .models import Blog
 from django.conf import settings
 from django.views.generic import View
@@ -32,3 +33,15 @@ class BlogDetail(View):
         article = -1 if article == None else int(article)
         article = getArticle(article)
         return render(request, 'BlogDetail/BlogBase.html', {"article": article})
+
+class BlogAbout(View):
+    def get(self, request):
+        return render(request, 'otherPages/about.html')
+
+class MyResume(View):
+    def get(self, request):
+        with open("otherFiles/resume.pdf", "r") as pdf:
+            response = HttpResponse(pdf.read(), content_type='application/pdf')
+            response['Content-Disposition'] = 'filename=resume.pdf'
+            return response
+        pdf.closed
