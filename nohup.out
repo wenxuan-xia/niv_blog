@@ -1685,3 +1685,73 @@ Not Found: /resume
 [27/Feb/2016 16:59:54] "GET /resume HTTP/1.1" 301 0
 [27/Feb/2016 16:59:55] "GET /resume/ HTTP/1.1" 200 31448
 [27/Feb/2016 17:00:00] "GET /articles/3/ HTTP/1.1" 200 5099
+[27/Feb/2016 17:02:02] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 17:02:06] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 17:02:06] "GET /static/niv_blog.css HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/cleanblog/css/clean-blog.min.css HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/highlight/styles/agate.css HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/jquery-1.12.0.min.js HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/bootstrap-3.3.6-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/cleanblog/js/clean-blog.min.js HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/highlight/highlight.pack.js HTTP/1.1" 304 0
+[27/Feb/2016 17:02:06] "GET /static/cleanblog/img/home-bg.jpg HTTP/1.1" 304 0
+[27/Feb/2016 17:02:08] "GET / HTTP/1.1" 200 5074
+[27/Feb/2016 17:02:09] "GET /articles/3/ HTTP/1.1" 200 5099
+[27/Feb/2016 17:02:12] "GET /articles/2/ HTTP/1.1" 200 6157
+[27/Feb/2016 17:02:15] "GET /resume/ HTTP/1.1" 200 31448
+[27/Feb/2016 17:02:18] "GET /articles/2/ HTTP/1.1" 200 6157
+[27/Feb/2016 17:02:21] "GET /articles/1/ HTTP/1.1" 200 5926
+[27/Feb/2016 17:02:25] "GET / HTTP/1.1" 200 5074
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2016 - 16:39:41
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2016 - 16:39:41
+Django version 1.9.2, using settings 'niv_blog.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manager.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 353, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 302, in execute
+    settings.INSTALLED_APPS
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 55, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 43, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 99, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+Traceback (most recent call last):
+  File "manager.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 353, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 302, in execute
+    settings.INSTALLED_APPS
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 55, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 43, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/usr/local/lib/python2.7/site-packages/django/conf/__init__.py", line 99, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/usr/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ec2-user/niv_blog/niv_blog/settings.py", line 137
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+    __import__(name)
+  File "/home/ec2-user/niv_blog/niv_blog/settings.py", line 137
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
