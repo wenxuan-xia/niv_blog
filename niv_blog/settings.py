@@ -50,7 +50,7 @@ MIDDLEWARE_CLASSES = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
 ROOT_URLCONF = 'niv_blog.urls'
@@ -133,5 +133,3 @@ STATICFILES_DIRS = (
 )
 
 SINGLE_PAGE_LIMIT = 10
-
-X_FRAME_OPTIONS = 'ALLOW-FROM https://www.github.com/'
