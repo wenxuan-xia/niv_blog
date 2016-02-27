@@ -3,7 +3,6 @@ from django.http import HttpResponse
 from .models import Blog
 from django.conf import settings
 from django.views.generic import View
-from django.views.decorators.clickjacking import xframe_options_exempt
 
 # Create your views here.
 
@@ -19,7 +18,6 @@ def getArticle(article=None):
 
 
 class BlogIndex(View):
-    @xframe_options_exempt
     def get(self, request, page=None):
         page = 0 if page == None else int(page)
         data, length = getBlogList(page)
@@ -28,7 +26,6 @@ class BlogIndex(View):
 
 
 class BlogDetail(View):
-    @xframe_options_exempt
     def get(self, request, article=None):
         article = -1 if article == None else int(article)
         article = getArticle(article)
