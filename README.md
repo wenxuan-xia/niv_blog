@@ -1,4 +1,4 @@
-# niv_blog - half finished
+# niv_blog - half finished - (new version is coming soon)
 
 ## Ideal Core Structure (roughly, to be modified)
 ### Construct basic blog administrating core: 
@@ -22,7 +22,11 @@ $ source ./.virtualenv/bin/active
 ```
 
 use `pip -r requirements/requirements.txt` to install all the requirements.
-
+## migrate core blog app
+```
+$ python manager.py makemigrations blog
+$ python manager.py migrate
+```
 ## Run it on your server
 ```
 $ python manager.py runserver 0.0.0.0:port
