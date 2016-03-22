@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from .models import Blog
 from django.conf import settings
 from django.views.generic import View
-
+import markdown2
 # Create your views here.
 
 def getBlogList(page=None):

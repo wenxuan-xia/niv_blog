@@ -111,6 +111,15 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
 
+MARKDOWN_DEUX_STYLES = {
+    "default": {
+        "extras": {
+            "code-friendly": None,
+        },
+        "safe_mode": "escape",
+    },
+}
+
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'EST'
