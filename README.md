@@ -1,4 +1,4 @@
-# niv_blog - half finished - (new version is coming soon)
+# niv_blog - (new version is coming soon)
 
 ## Ideal Core Structure (roughly, to be modified)
 ### Construct basic blog administrating core: 
