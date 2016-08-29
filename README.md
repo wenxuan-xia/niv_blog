@@ -1,7 +1,7 @@
 # niv_blog - (new version is coming soon)
 
 ## Ideal Core Structure (roughly, to be modified)
-### Construct basic blog administrating core: 
+### Construct basic blog administrating core:
 **User**: use default
 
 **Blog**: blog, blog-tag(to do),
@@ -13,7 +13,7 @@
 Strongly suggest using virtual-environment.
 ```
 $ pip install --upgrade virtualenv
-$ mkdir ~/.virtualenvs
+$ mkdir ./.virtualenv
 $ virtualenv -p python ./.virtualenv
 ```
 activate virtual-environment
@@ -21,17 +21,18 @@ activate virtual-environment
 $ source ./.virtualenv/bin/active
 ```
 
-use `pip -r requirements/requirements.txt` to install all the requirements.
+use `pip install -r requirements/requirements.txt` to install all the requirements.
 ## migrate core blog app
 ```
 $ python manager.py makemigrations blog
 $ python manager.py migrate
 ```
 ## Run it on your server
+Run your server boardcast
 ```
 $ python manager.py runserver 0.0.0.0:port
 ```
-or directly run
+or directly run at localhost
 ```
 $ python manager.py runserver
 ```
