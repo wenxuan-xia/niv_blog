@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+import personalPage
 from core import blog
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'', include('core.blog.urls')),
+    url(r'', include('personalPage.urls')),
+    url(r'blog/', include('core.blog.urls')),
 ]

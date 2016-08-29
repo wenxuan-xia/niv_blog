@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'core.blog',
+    'personalPage',
     'pagedown',
     'markdown_deux',
 ]
@@ -61,6 +62,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
             os.path.join(BASE_DIR, 'core/blog/templates'),
+            os.path.join(BASE_DIR, 'personalPage/templates'),
             os.path.join(BASE_DIR, 'templates'),
             ],
         'APP_DIRS': True,

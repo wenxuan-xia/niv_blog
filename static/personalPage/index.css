@@ -1,0 +1,161 @@
+/*navbar*/
+.nav-text {
+    color: #ffffff !important;
+}
+
+.list-group-item:hover {
+    background-color: #555555 !important;
+}
+
+.list-group-item.actived {
+    background-color: #aaaaaa !important;
+}
+
+@media screen and (max-width: 767px) {
+    .nav-div {
+        min-height: 400px !important;
+    }
+
+    .navbar {
+        border: none;
+        background-color: #444444;
+    }
+
+    .navbar-fixed-left {
+      width: 100%;
+      border-radius: 0;
+      height: 300px;
+    }
+
+    .list-group {
+        display:inline-flex;
+        /*margin-bottom: 5px;*/
+    }
+
+    .list-group-item {
+        margin-left: 2px;
+        margin-right: 2px;
+        font-size: 10px;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .navbar {
+        border: none;
+        background-color: #444444;
+    }
+
+    .navbar-fixed-left {
+      width: 270px;
+      position: fixed;
+      border-radius: 0;
+      height: 100%;
+    }
+
+    .navbar-fixed-left + .container {
+      padding-left: 285px;
+    }
+
+    .navbar > nav {
+        margin-top: 20px;
+    }
+
+    .list-group-item {
+        padding-left: 30px;
+    }
+}
+
+
+
+
+
+
+nav {
+    background-color: #444444;
+}
+
+nav > div {
+    background-color: #444444 !important;
+}
+
+nav > div > a {
+    background-color: #444444 !important;
+    border: none !important;
+    margin-left: 10px;
+    color: #ffffff;
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+
+
+.wrapper {
+    padding: 0 15px;
+}
+
+.container {
+    background-color: #ffffff;
+    width: auto;
+}
+
+.image-container {
+    /*float: left;*/
+    width: inherit;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.image-container > img {
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*content*/
+.content {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+}
+
+#bio-bg {
+    background-image: url(http://s3.amazonaws.com/branded.me/gallery/business/13.jpg);
+    background-size: cover;
+    align-items: stretch;
+    opacity: 0.9;
+}
+
+.content > div{
+    margin-left: -30;
+    margin-right: -30;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgba(255,255,255, 0.5);
+}
+
+.content > div > h2 {
+    margin-bottom: 40px;
+}
+
+.content > div > p {
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
