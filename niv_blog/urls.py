@@ -16,10 +16,11 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 import personalPage
-from core import blog
+from core.blog.views import MyResume
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'', include('personalPage.urls')),
-    url(r'blog/', include('core.blog.urls')),
+    url(r'^blog/', include('core.blog.urls')),
+    url(r'^resume', MyResume.as_view()),
 ]
