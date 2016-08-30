@@ -1,6 +1,6 @@
-# niv_blog - (new version is coming soon)
+# niv_blog 
 
-## Ideal Core Structure (roughly, to be modified)
+## Ideal Core Structure 
 ### Construct basic blog administrating core:
 **User**: use default
 
