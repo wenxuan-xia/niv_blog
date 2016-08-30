@@ -126,8 +126,7 @@ nav > div > a {
 
 /*content*/
 .content {
-    padding-left: 30px;
-    padding-right: 30px;
+    margin-left: 0px;
     display: flex;
 }
 
@@ -145,7 +144,9 @@ nav > div > a {
 
 #exp {
     background-color: rgba(0, 0, 0, 0.5);
-    width: 110%;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
     color: white;
 }
 
@@ -212,8 +213,8 @@ nav > div > a {
 
 
 .content > div{
-    margin-left: -30;
-    margin-right: -30;
+    /*margin-left: -30;
+    margin-right: -30;*/
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 40px;
