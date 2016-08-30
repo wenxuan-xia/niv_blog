@@ -29,7 +29,7 @@
 
     .list-group {
         display:inline-flex;
-        /*margin-bottom: 5px;*/
+        margin-bottom: 13px !important;
     }
 
     .list-group-item {
@@ -133,10 +133,83 @@ nav > div > a {
 
 #bio-bg {
     background-image: url(http://s3.amazonaws.com/branded.me/gallery/business/13.jpg);
-    background-size: cover;
     align-items: stretch;
     opacity: 0.9;
 }
+
+#exp-bg {
+    background-image: url(http://s3.amazonaws.com/branded.me/gallery/architecture/7.jpg);
+    align-items: stretch;
+    opacity: 0.9;
+}
+
+#exp {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 110%;
+    color: white;
+}
+
+.exp-hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.exp-div > br {
+    margin-top: 10px;
+}
+.exp-div > h3 {
+    margin-top: 5px;
+}
+
+#edu-bg {
+    background-color: rgba(233, 233, 233, 1);
+    align-items: stretch;
+    width: 110%;
+}
+
+.edu-row {
+    width : 110%;
+}
+.edu-div {
+    margin-top: 80px;
+}
+
+.edu-text {
+    margin-top: -20px;
+}
+
+#edu-bg > div {
+    width: 110%;
+}
+
+#edu-bg > div > div {
+    height: auto;
+}
+
+#skill-bg {
+    background-color: rgba(44, 44, 44, 1);
+    align-items: stretch;
+    opacity: 1;
+}
+
+.skill-row {
+    width: 110%;
+    background-color: rgba(44, 44, 44, 1) !important;
+    color: white;
+}
+
+.skill-item {
+    min-height: 50px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
 
 .content > div{
     margin-left: -30;
