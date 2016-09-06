@@ -174,9 +174,17 @@ nav > div > a {
     color: white;
 }
 
+.exp-link {
+    color: white;
+}
+
+.exp-link:hover {
+    color: white;
+}
+
 .exp-hr {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     border-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -255,6 +263,7 @@ nav > div > a {
 
 .project-item:hover {
     background-color: rgba(100, 100, 100, 0.5) !important;
+    border-color: white;
 }
 
 
